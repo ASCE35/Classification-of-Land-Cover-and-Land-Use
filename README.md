@@ -16,7 +16,7 @@ Satellite scanning of the earth yields images that can be cropped and fed into a
 The flowchart of the methodology used for land cover and land use classification adopted in this work is shown in Fig. 1. Based on the pre-trained powerful image classification algorithm Swin Transformer, the algorithm is modified and fine-tuned using the EuroSAT image dataset. The image is first partitioned into patches, then flattened and positional coding is added, and then fed into the Transformer model for multi-head self-attention learning. Finally, the land use and land cover type of the area represented by this image is output using the fully connected layers.
 
 ## Method:
-![alt](data/Swin Transformer.png "Figure 2.  The architecture of a Swin Transformer (tiny version).")
+![alt](data/SwinTransformer.png "Figure 2.  The architecture of a Swin Transformer (tiny version).")
 
 Swin Transformer is a deep learning model based on the self-attention mechanism, designed specifically for processing image data. Compared to traditional Convolutional Neural Networks (CNNs) and Vision Transformer (ViT), Swin Transformer introduces a novel window mechanism that divides an image into a series of overlapping image patches and uses a self-attention mechanism to capture global dependencies between image patches. This window mechanism maintains the efficiency of the model in processing large size images and also shows better performance in capturing long range dependencies.
 
