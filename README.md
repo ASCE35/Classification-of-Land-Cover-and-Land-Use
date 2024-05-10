@@ -9,4 +9,4 @@ This repository contains a collection of Jupyter Notebooks and necessary Python 
 Utilizing satellite imagery for land cover and land use classification plays a crucial role and holds significant meaning in fields such as environmental management, land planning, agricultural development, and natural resource conservation. However, the spatial distribution of different land cover types is complex, making the improvement of classification accuracy a challenging task. With the continuous development of computing power and deep learning, image classification networks based on CNN (Convolutional Neural Networks) and Transformers have been extensively researched and applied. Therefore, this work aims to employ deep learning techniques, particularly by integrating the strengths of both CNNs and Transformer networks, to achieve precise classification of land cover and land use. <br/>
 
 ## Overview:
-![alt]()
+![alt](data/overview.png "Figure 1.  Illustration of the classification of land cover and land use.")
