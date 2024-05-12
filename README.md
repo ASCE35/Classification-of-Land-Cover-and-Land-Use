@@ -25,4 +25,5 @@ The network structure of Swin Transformer is shown in Fig. 2. Its core structure
 Compared to CNNs, Swin Transformer can capture global dependencies between image patches without being limited by a fixed receptive field size, thereby possessing stronger modeling capabilities. Compared to ViT, Swin Transformer has advantages in efficiency, capturing long-range dependencies, flexible feature processing, and suitability for large-scale image data. Therefore, this work adopts pre-trained Swin Transformer for transfer learning, fine-tuning the model using remote sensing image data to accomplish automatic classification of land use and land cover.
 
 ## Results:
-
+Below shows the graph of accuracy and losses against epochs for both training and testing data.
+![alt]()
