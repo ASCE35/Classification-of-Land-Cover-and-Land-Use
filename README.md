@@ -31,3 +31,5 @@ Below shows the graph of accuracy and losses against epochs for both training an
 ![alt](data/train_acc.png "Figure 3. The prediction accuracy of the model on the test set")  <br/>
 ![alt](data/train_acc.png "Figure 3. The loss curve of the model on the training set.")  <br/>
 
+Some prediction results are shown below.
+
