@@ -39,4 +39,4 @@ Some prediction results are shown below. <br/>
 
 
 Confusion matrix for the test set. <br/>
-![alt](data/Confusion matrix.png "Figure 11. Confusion matrix for the test set.")  <br/>
+![alt](data/Confusionmatrix.png "Figure 11. Confusion matrix for the test set.")  <br/>
