@@ -38,5 +38,5 @@ Some prediction results are shown below. <br/>
 ![alt](data/test4.png "Figure 10. The prediction result of the input image")  <br/>
 
 
-Confusion Matrix
-
+Confusion matrix for the test set. <br/>
+![alt](data/Confusion matrix.png "Figure 11. Confusion matrix for the test set.")  <br/>
