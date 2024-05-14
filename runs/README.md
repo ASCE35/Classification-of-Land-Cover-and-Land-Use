@@ -1,0 +1,1 @@
+The files here are automatically generated during the training process and are the intermediate data recorded by tensorboard during the training process, such as loss value, training and verification accuracy, etc.
