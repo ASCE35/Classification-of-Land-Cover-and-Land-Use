@@ -36,3 +36,7 @@ Some prediction results are shown below. <br/>
 ![alt](data/test2.png "Figure 8. The prediction result of the input image")  <br/>
 ![alt](data/test3.png "Figure 9. The prediction result of the input image")  <br/>
 ![alt](data/test4.png "Figure 10. The prediction result of the input image")  <br/>
+
+
+Confusion Matrix
+
