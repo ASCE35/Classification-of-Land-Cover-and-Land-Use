@@ -28,8 +28,8 @@ Compared to CNNs, Swin Transformer can capture global dependencies between image
 Below shows the graph of accuracy and losses against epochs for both training and testing data. And the model was trained for 20 epochs.
 ![alt](data/train_acc.png "Figure 3. The prediction accuracy of the model on the training set")  <br/>
 ![alt](data/train_loss.png "Figure 4. The loss curve of the model on the training set.")  <br/>
-![alt](data/train_acc.png "Figure 5. The prediction accuracy of the model on the test set")  <br/>
-![alt](data/train_acc.png "Figure 6. The loss curve of the model on the training set.")  <br/><br/>
+![alt](data/val_acc.png "Figure 5. The prediction accuracy of the model on the test set")  <br/>
+![alt](data/val_acc.png "Figure 6. The loss curve of the model on the training set.")  <br/><br/>
 
 Some prediction results are shown below. <br/>
 ![alt](data/test1.png "Figure 7. The prediction result of the input image")  <br/>
