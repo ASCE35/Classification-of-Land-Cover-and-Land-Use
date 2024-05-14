@@ -1,0 +1,1 @@
+This folder is used to store the training weights of the model. During the model training process, the pre-trained weights will be loaded, and then the model will be fine-tuned based on the land use and land cover data sets. The fine-tuned model weights will be stored in this folder.
