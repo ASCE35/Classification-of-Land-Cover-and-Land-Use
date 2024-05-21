@@ -1,1 +1,1 @@
-
+This folder stores the code implementation of the ViT model and the corresponding experimental results of land use and land cover classification, as a comparison model for the Swin Transformer algorithm used in this work.
