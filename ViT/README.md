@@ -30,7 +30,7 @@ Confusion matrix and  predition accuracy for the test set. <br/>
 ![alt](/data/vit_model_acc.png "Figure 11. Confusion matrix for the test set.")  <br/>
 
 <br/>
-The confusion matrix of the Swin Transformer for the same test set is shown below.
+The confusion matrix of the Swin Transformer for the same test set is shown below. <br/>
 ![alt](/data/ConfusionMatrix.png "Figure 12. Confusion matrix for the test set.")  <br/>
 ![alt](/data/Swin_Transformer_model_acc.png "Figure 13. Confusion matrix for the test set.")  <br/>
 <br/>
