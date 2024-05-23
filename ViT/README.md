@@ -14,7 +14,7 @@ After processing through all the Transformer encoder layers, feature representat
 ## Results:
 Below shows the graph of accuracy and loss against epochs for both training and testing data. And the model was trained for 20 epochs.
 ![alt](/data/vit_train_acc.png "Figure 2. The prediction accuracy of the model on the training set")  <br/>
-![alt](data/ViT_train_loss.png "Figure 3. The loss curve of the model on the training set.")  <br/>
+![alt](data/vittrainloss.png "Figure 3. The loss curve of the model on the training set.")  <br/>
 ![alt](data/ViT_val_acc.png "Figure 4. The prediction accuracy of the model on the test set")  <br/>
 ![alt](data/vit_val_loss.png "Figure 5. The loss curve of the model on the training set.")  <br/><br/>
 
