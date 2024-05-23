@@ -31,7 +31,7 @@ Confusion matrix and  predition accuracy for the test set. <br/>
 
 <br/>
 The confusion matrix of the Swin Transformer for the same test set is shown below. <br/>
-![alt](/data/ConfusionMatrix.png "Figure 12. Confusion matrix for the test set.")  <br/>
-![alt](/data/Swin_Transformer_model_acc.png "Figure 13. Confusion matrix for the test set.")  <br/>
+![alt](/data/ConfusionMatrix.png)  <br/>
+![alt](/data/Swin_Transformer_model_acc.png) <br/>
 <br/>
 From the above figures, we can see that the Swin Transformer achieves a higher prediction accuracy (98.1% vs 88.4%) and performs better in land cover and land use classification task.
