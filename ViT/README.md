@@ -13,9 +13,9 @@ After processing through all the Transformer encoder layers, feature representat
 
 ## Results:
 Below shows the graph of accuracy and loss against epochs for both training and testing data. And the model was trained for 20 epochs.
-![alt](/data/ViT_train_acc.png "Figure 2. The prediction accuracy of the model on the training set")  <br/>
+![alt](/data/vit_train_acc.png "Figure 2. The prediction accuracy of the model on the training set")  <br/>
 ![alt](data/ViT_train_loss.png "Figure 3. The loss curve of the model on the training set.")  <br/>
-![alt](data/ViT_val_acc.png "Figure 4. The prediction accuracy of the model on the test set")  <br/>
+![alt](data/vit_val_acc.png "Figure 4. The prediction accuracy of the model on the test set")  <br/>
 ![alt](data/ViT_val_loss.png "Figure 5. The loss curve of the model on the training set.")  <br/><br/>
 
 Some prediction results are shown below. <br/>
@@ -33,4 +33,4 @@ Confusion matrix and  predition accuracy for the test set. <br/>
 The confusion matrix of the Swin Transformer for the same test set is shown below.
 ![alt](/data/Confusion_Matrix.png "Figure 10. Confusion matrix for the test set.")  <br/>
 <br/>
-From the above figures, we can see that the Swin Transformer achieves a higher prediction accuracy and performs better in land cover and land use classification task.
+From the above figures, we can see that the Swin Transformer achieves a higher prediction accuracy (98.1% vs 88.4%) and performs better in land cover and land use classification task.
